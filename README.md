@@ -175,11 +175,7 @@ basic car with 4 wheels
 ## 🎬 Demo Video
 
 [Watch the demo video](demo.mp4) showing:
-- Installing and setting up the addon
-- Testing Ollama connection
-- Creating a robot arm in real-time
-- Switching between AI and fallback modes
-- Material application
+- This video shows how to make a robotic arm by a simple prompt
 
 ---
 
