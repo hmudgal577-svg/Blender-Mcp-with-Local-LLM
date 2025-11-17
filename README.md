@@ -6,7 +6,8 @@
 
 An AI-powered Blender addon that generates 3D robotic models and mechanical structures using natural language commands. Powered by DeepSeek AI models via Ollama, with intelligent fallback code for guaranteed results.
 
-![DeepSeek Robotics Interface](screenshot.png)
+![DeepSeek Robotics Interface]<img width="1896" height="925" alt="Screenshot 2025-11-17 190328" src="https://github.com/user-attachments/assets/096bde8a-e033-491a-bd91-a088b35bb0a6" />
+
 *Creating a robot arm with 6 joints and gripper using natural language*
 
 ---
