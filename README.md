@@ -175,7 +175,9 @@ basic car with 4 wheels
 
 ## 🎬 Demo Video
 
-[Watch the demo video](demo.mp4) showing:
+
+https://github.com/user-attachments/assets/76576049-b596-4ca0-bd0e-6e1bd5f7b35c
+
 - This video shows how to make a robotic arm by a simple prompt
 
 ---
